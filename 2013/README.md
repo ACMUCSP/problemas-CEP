@@ -1,6 +1,6 @@
 # Problemas
 
-El conjunto de problemas puede obtenerse [http://cs.ucsp.edu.pe/cep2014/files/cep2013.pdf](aquí).
+El conjunto de problemas puede obtenerse [aquí](http://cs.ucsp.edu.pe/cep2014/files/cep2013.pdf).
 
 ## A. Divisores
 
